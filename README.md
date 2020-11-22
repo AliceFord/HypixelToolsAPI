@@ -1,0 +1,2 @@
+# HypixelToolsAPI
+Public API documentation
