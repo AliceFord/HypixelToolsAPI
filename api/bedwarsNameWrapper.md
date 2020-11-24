@@ -1,4 +1,4 @@
-# nameWrapper
+# bedwarsNameWrapper
 
 ## Description
 
