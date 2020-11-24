@@ -2,7 +2,7 @@
 
 ## Description
 
-Format name of hypixel player with their rank.
+Format name of hypixel player with their rank and bedwars star.
 
 ## Parameters
 - name
