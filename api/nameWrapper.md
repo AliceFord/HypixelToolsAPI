@@ -5,8 +5,8 @@
 Format name of hypixel player with their rank.
 
 ## Parameters
-- name: string
-- useChatCodes: bool *default: false* 
+- string name
+- bool useChatCodes *default: false* 
 
 ## Example GET Request
 `GET / hypixeleaderboards.com/api/nameWrapper?name=dev`
